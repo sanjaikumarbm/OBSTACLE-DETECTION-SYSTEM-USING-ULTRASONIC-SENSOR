@@ -4,7 +4,7 @@
 To design and simulate a distance measurement system using an ultrasonic sensor HC-SR04 interfaced with an Arduino Uno board in Tinkercad.
 
 ## Hardware / Software Tools required:
-1.	Arduino Uno R3
+1.	Arduino Uno R4 wifi
 2.	HC-SR04 Ultrasonic Distance Sensor
 3.	Jumper Wires
 4.	USB Cable (for simulation purpose in Tinkercad)
@@ -139,7 +139,7 @@ void loop() {
 
 ## Output:
  
-<img width="849" height="578" alt="photo_2026-08-04_14-26-19" src="https://github.com/user-attachments/assets/3545ba33-7756-4bfe-a672-908af04a3542" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-11-24 at 2 00 29 PM" src="https://github.com/user-attachments/assets/c99f72f7-066d-481e-9d52-eb44a19fa1ea" />
 
 
 ## Result
